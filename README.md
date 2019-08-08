@@ -16,3 +16,9 @@ Classes
 1. cst.m: model constants
 2. ic.m: user chooses the initial conditions
 3. vectorcolor.m: a vector which contains hundreds of values between 0 and 1
+
+Scripts
+1. Recrystallization.m: Recrystallization model via dissolution reprecipitation
+2. Recrystallization_IncTemp.m: Recrystallization model via dissolution reprecipitation at increasing temperature
+3. FluidMixing.m: Dolomitization model from a mixture of fluid A and B
+4. Cementation.m: Model of dolomite cementation
